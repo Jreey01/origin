@@ -6,11 +6,6 @@
 # @File     :learnpy.py
 import requests
 from selenium import webdriver
-# -*-coding:utf-8 -*-
-# @Time    :2021/4/14 16:12
-# @Author   :ELWIN
-# @Email    :nwlhb@163.com
-# @File     :class_practise.py
 
 
 class User:
